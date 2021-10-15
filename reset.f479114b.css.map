@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CAEA,QAEE,QAAS,CACT,SACF","file":"reset.f479114b.css","sourceRoot":"..\\src","sourcesContent":["* {\n  box-sizing: border-box;\n}\n\nbody,\nul {\n  margin: 0;\n  padding: 0;\n}\n"]}
